@@ -10,7 +10,7 @@
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 I'm studying systems engineering  
-- ⭐ Full-Stack Developer in training
+- ⭐ Full-Stack Developer
 - ⚡ I love programming, ⭐ Always learning and building new projects.
 
 
