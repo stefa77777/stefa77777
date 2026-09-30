@@ -8,13 +8,13 @@
  
 <a href="https://github.com/stefa77777"><img align='right' src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Octocat.gif' width='150'></a></h2>
 
-- 🎓 Estoy estudiando Ingeniería de Sistemas  
-- ⭐ Desarrolladora Full-Stack  
-- ⚡ Me encanta programar, siempre estoy aprendiendo y creando nuevos proyectos.
+-  Estudiando Ingeniería de Sistemas  
+-  Desarrolladora Full-Stack  
+-  Me encanta programar, siempre estoy aprendiendo y creando nuevos proyectos.
 
 ---
 
-### 🛠️ Lenguajes y Herramientas 
+### Lenguajes y Herramientas 
 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Vista Previa | Descripción y Enlaces |
 | :--- | :---: | :--- |
@@ -41,7 +41,7 @@
 
 ---
 
-### 📬 Conéctate conmigo  
+### Conéctate conmigo  
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/stefaniaredondo" target="_blank">
