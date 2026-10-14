@@ -35,6 +35,7 @@
 
 | Proyecto | Vista Previa | Descripción y Enlaces |
 | :--- | :---: | :--- |
+| **Trendy Shop** | <img src="https://api.microlink.io/?url=https://argie-fullstack-java-generation-ch14.github.io/trendy-shop/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa Trendy Shop"> | Plataforma de comercio electrónico desarrollada en colaboración (Generation Ch14).<br><br>[🌐 Ver Demo](https://argie-fullstack-java-generation-ch14.github.io/trendy-shop/) \| [💻 Código](https://github.com/argie-fullstack-java-generation-ch14/trendy-shop) |
 | **GPS PET** | <img src="https://api.microlink.io/?url=https://stefa77777.github.io/GPS-PET/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa GPS PET"> | Aplicación web para rastreo y localización de mascotas en tiempo real.<br><br>[🌐 Ver Demo](https://stefa77777.github.io/GPS-PET/) \| [💻 Código](https://github.com/stefa77777/GPS-PET) |
 | **Restaurante** | <img src="https://api.microlink.io/?url=https://stefa77777.github.io/Restaurante/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa Restaurante"> | Sitio web interactivo para menú y reservas de un restaurante.<br><br>[🌐 Ver Demo](https://stefa77777.github.io/Restaurante/) \| [💻 Código](https://github.com/stefa77777/Restaurante) |
 | **Lógica de Programación** | <img src="https://api.microlink.io/?url=https://stefa77777.github.io/logica-programacion-1/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa Logica Programacion"> | Proyecto interactivo de ejercicios y retos de lógica de programación.<br><br>[🌐 Ver Demo](https://stefa77777.github.io/logica-programacion-1/) \| [💻 Código](https://github.com/stefa77777/logica-programacion-1) |
@@ -51,4 +52,3 @@
 
 ---
 *Desarrollado con ❤️ por [Stefania Redondo](https://github.com/stefa77777)*
-
