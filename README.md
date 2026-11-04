@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-# ¡Hola! Soy Andrea Redondo 👋
+# ¡Hola! Soy Stefania Redondo
 
 ### 💻 Full Stack Developer 
 
