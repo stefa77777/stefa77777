@@ -1,46 +1,85 @@
-<!--
-**stefa77777/stefa77777** es un repositorio especial para tu perfil de GitHub.
--->
 
-![Chrome Dino](https://behance.net)
+<h1 align="center">¡Hola! 👋 Soy Andrea Redondo</h1>
 
-<h2 align="left">Hola, soy <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">Stefania Redondo</a> <img src="https://githubusercontent.com" height="30" />
- 
-<a href="https://github.com"><img align='right' src='https://githubusercontent.com' width='150'></a></h2>
+<h3 align="center">💻 Desarrolladora Full Stack en formación</h3>
 
-- Estudiando Ingeniería de Sistemas  
-- Desarrolladora Full-Stack  
-- Apasionada por la programación, el aprendizaje continuo y la creación de proyectos.
-
----
-
-### Lenguajes y Herramientas 
-
-<p>
-  <code><img height="25" src="https://githubusercontent.com" alt="Python"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="JavaScript"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="HTML5"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="CSS3"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="Java"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="C"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="Git"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="VS Code"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="R"></code>
-  <code><img height="25" src="https://githubusercontent.com" alt="MATLAB"></code>
+<p align="center">
+  Apasionada por la tecnología, la programación y el desarrollo de soluciones digitales.
+  Actualmente estoy fortaleciendo mis habilidades en desarrollo de software,
+  trabajando con diferentes tecnologías y construyendo proyectos que me permiten
+  crecer profesionalmente.
 </p>
 
 ---
 
-### Proyectos Destacados
+## 🚀 Sobre mí
 
-* **[Portafolio Personal](https://github.io)** ([Código](https://github.com/PORTAFOLIO)): Portafolio profesional principal con habilidades, trayectoria y proyectos.
-* **[Trendy Shop](https://github.io)** ([Código](https://github.com)): E-commerce desarrollado colaborativamente (Generation Ch14).
-* **[GPS PET](https://github.io)** ([Código](https://github.com/GPS-PET)): Aplicación web de rastreo de mascotas en tiempo real.
+- 👩‍💻 Desarrolladora Full Stack en formación.
+- ☕ Aprendiendo y desarrollando proyectos con Java.
+- 🌐 Interesada en el desarrollo web Frontend y Backend.
+- 🗄️ Con conocimientos en bases de datos.
+- 🔧 Experiencia trabajando con Git y GitHub.
+- 📚 En constante aprendizaje y crecimiento profesional.
+- 🎯 Mi objetivo es convertirme en una desarrolladora Full Stack.
 
 ---
 
-### Conéctate conmigo
+## 🛠️ Tecnologías y herramientas
 
-[LinkedIn](https://linkedin.com)
+### Lenguajes de programación
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+</p>
 
-*Desarrollado con ❤ por Stefania Redondo*
+### Frameworks y herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,git,github,vscode,idea" />
+</p>
+
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📂 Proyectos
+
+| Proyecto | Descripción | Tecnología |
+|---|---|---|
+| Compensándote | Aplicación de gestión para una caja de compensación | Python |
+| Calculadora | Operaciones matemáticas mediante JavaScript | JavaScript |
+| FizzBuzz | Ejercicios de lógica de programación | JavaScript |
+| Agenda telefónica | Proyecto colaborativo de gestión de contactos | Java |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ "Cada línea de código es una oportunidad para aprender y crear algo nuevo."
+</p>
+
