@@ -32,7 +32,7 @@
 
 
 <div align="center">
-  <a href="AQUI_TU_LINK_DEL_PORTAFOLIO">
+  <a href="https://stefa77777.github.io/PORTAFOLIO/">
     <img src="AQUI_TU_IMAGEN_DE_VISTA_PREVIA"
          width="500"
          alt="Portfolio de Andrea Redondo">
