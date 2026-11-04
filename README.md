@@ -1,53 +1,46 @@
 <!--
-**stefa77777/stefa77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stefa77777/stefa77777** es un repositorio especial para tu perfil de GitHub.
 -->
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![Chrome Dino](https://behance.net)
 
-<h2 align="left">Hola, soy <a href="https://www.linkedin.com/in/stefaniaredondo" target="_blank" rel="noopener noreferrer">Stefania Redondo</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hola, soy <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">Stefania Redondo</a> <img src="https://githubusercontent.com" height="30" />
  
-<a href="https://github.com/stefa77777"><img align='right' src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Octocat.gif' width='150'></a></h2>
+<a href="https://github.com"><img align='right' src='https://githubusercontent.com' width='150'></a></h2>
 
--  Estudiando Ingeniería de Sistemas  
--  Desarrolladora Full-Stack  
--  Me encanta programar, siempre estoy aprendiendo y creando nuevos proyectos.
+- Estudiando Ingeniería de Sistemas  
+- Desarrolladora Full-Stack  
+- Apasionada por la programación, el aprendizaje continuo y la creación de proyectos.
 
 ---
 
 ### Lenguajes y Herramientas 
 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="Python"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="JavaScript"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="HTML5"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="CSS3"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="Java"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="C"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="Git"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="VS Code"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="R"></code>
+  <code><img height="25" src="https://githubusercontent.com" alt="MATLAB"></code>
 </p>
 
 ---
 
 ### Proyectos Destacados
 
-| Proyecto | Vista Previa | Descripción y Enlaces |
-| :--- | :---: | :--- |
-| **Trendy Shop** | <img src="https://api.microlink.io/?url=https://argie-fullstack-java-generation-ch14.github.io/trendy-shop/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa Trendy Shop"> | Plataforma de comercio electrónico desarrollada en colaboración (Generation Ch14).<br><br>[🌐 Ver Demo](https://argie-fullstack-java-generation-ch14.github.io/trendy-shop/) \| [💻 Código](https://github.com/argie-fullstack-java-generation-ch14/trendy-shop) |
-| **GPS PET** | <img src="https://api.microlink.io/?url=https://stefa77777.github.io/GPS-PET/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa GPS PET"> | Aplicación web para rastreo y localización de mascotas en tiempo real.<br><br>[🌐 Ver Demo](https://stefa77777.github.io/GPS-PET/) \| [💻 Código](https://github.com/stefa77777/GPS-PET) |
-| **Restaurante** | <img src="https://api.microlink.io/?url=https://stefa77777.github.io/Restaurante/&screenshot=true&embed=screenshot.url" width="280" alt="Vista previa Restaurante"> | Sitio web interactivo para menú y reservas de un restaurante.<br><br>[🌐 Ver Demo](https://stefa77777.github.io/Restaurante/) \| [💻 Código](https://github.com/stefa77777/Restaurante) |
+* **[Portafolio Personal](https://github.io)** ([Código](https://github.com/PORTAFOLIO)): Portafolio profesional principal con habilidades, trayectoria y proyectos.
+* **[Trendy Shop](https://github.io)** ([Código](https://github.com)): E-commerce desarrollado colaborativamente (Generation Ch14).
+* **[GPS PET](https://github.io)** ([Código](https://github.com/GPS-PET)): Aplicación web de rastreo de mascotas en tiempo real.
 
 ---
 
-### Conéctate conmigo  
+### Conéctate conmigo
 
-<p align='left'>
-  <a href="https://www.linkedin.com/in/stefaniaredondo" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-  </a>
-</p>
+[LinkedIn](https://linkedin.com)
 
----
-*Desarrollado con ❤️ por [Stefania Redondo](https://github.com/stefa77777)*
+*Desarrollado con ❤ por Stefania Redondo*
