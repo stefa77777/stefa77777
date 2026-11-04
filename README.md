@@ -1,85 +1,58 @@
 
-<h1 align="center">¡Hola! 👋 Soy Andrea Redondo</h1>
+<div align="center">
 
-<h3 align="center">💻 Desarrolladora Full Stack en formación</h3>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<p align="center">
-  Apasionada por la tecnología, la programación y el desarrollo de soluciones digitales.
-  Actualmente estoy fortaleciendo mis habilidades en desarrollo de software,
-  trabajando con diferentes tecnologías y construyendo proyectos que me permiten
-  crecer profesionalmente.
-</p>
+# ¡Hola! Soy Andrea Redondo 👋
 
----
+### 💻 Full Stack Developer en formación
 
-## 🚀 Sobre mí
+🌱 Aprendiendo, construyendo y creciendo en el mundo del desarrollo de software.
 
-- 👩‍💻 Desarrolladora Full Stack en formación.
-- ☕ Aprendiendo y desarrollando proyectos con Java.
-- 🌐 Interesada en el desarrollo web Frontend y Backend.
-- 🗄️ Con conocimientos en bases de datos.
-- 🔧 Experiencia trabajando con Git y GitHub.
-- 📚 En constante aprendizaje y crecimiento profesional.
-- 🎯 Mi objetivo es convertirme en una desarrolladora Full Stack.
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🦖 Sobre mí
 
-### Lenguajes de programación
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
-</p>
+- 💻 Desarrolladora Full Stack en formación.
+- ☕ Aprendiendo Java y Spring Boot.
+- 🌐 Interesada en Frontend y Backend.
+- 🗄️ Explorando bases de datos SQL.
+- 🔧 Utilizando Git y GitHub.
+- 🚀 Siempre aprendiendo nuevas tecnologías.
 
-### Frameworks y herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,git,github,vscode,idea" />
-</p>
+## 🛠️ Tecnologías
 
-### Bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,spring,mysql,git,github,vscode" />
 
-## 📂 Proyectos
+</div>
 
-| Proyecto | Descripción | Tecnología |
-|---|---|---|
-| Compensándote | Aplicación de gestión para una caja de compensación | Python |
-| Calculadora | Operaciones matemáticas mediante JavaScript | JavaScript |
-| FizzBuzz | Ejercicios de lógica de programación | JavaScript |
-| Agenda telefónica | Proyecto colaborativo de gestión de contactos | Java |
+## 📊 GitHub Stats
 
----
+<div align="center">
 
-## 📊 Estadísticas de GitHub
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
+</div>
+
+## 🐍 Mi actividad en GitHub
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
 
 ---
 
-## 📫 Conectemos
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+✨ *Cada día es una nueva oportunidad para aprender algo diferente.*
 
----
-
-<p align="center">
-  ✨ "Cada línea de código es una oportunidad para aprender y crear algo nuevo."
-</p>
+</div>
 
