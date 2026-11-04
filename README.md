@@ -33,9 +33,11 @@
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+      <div class="stats">
+        <div><b data-count="13">0</b><small>Repositorios</small></div>
+        <div><b data-count="2">0</b><small>Hackathons</small></div>
+        <div><b data-count="7">0</b><small>Proyectos destacados</small></div>
+      </div>
 
 
 ## 🐍 Mi actividad en GitHub
