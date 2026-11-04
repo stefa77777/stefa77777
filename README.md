@@ -31,18 +31,16 @@
 </div>
 
 
+
 <div align="center">
   <a href="https://stefa77777.github.io/PORTAFOLIO/">
-    <img src="AQUI_TU_IMAGEN_DE_VISTA_PREVIA"
-         width="500"
-         alt="Portfolio de Andrea Redondo">
+    <img src="https://img.shields.io/badge/🚀%20Explorar%20mi%20sitio%20web-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white"
+         width="100%"
+         height="45"
+         alt="Visitar portafolio">
   </a>
 </div>
 
-
-### 💻 Conoce mis proyectos, habilidades y experiencia en desarrollo Full Stack.
-
-</div>
 
 
 
