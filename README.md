@@ -5,7 +5,7 @@
 
 # ¡Hola! Soy Andrea Redondo 👋
 
-### 💻 Full Stack Developer en formación
+### 💻 Full Stack Developer 
 
 🌱 Aprendiendo, construyendo y creciendo en el mundo del desarrollo de software.
 
@@ -16,7 +16,7 @@
 ## 🦖 Sobre mí
 
 - 💻 Desarrolladora Full Stack en formación.
-- ☕ Aprendiendo Java y Spring Boot.
+- ☕ Java y Spring Boot.
 - 🌐 Interesada en Frontend y Backend.
 - 🗄️ Explorando bases de datos SQL.
 - 🔧 Utilizando Git y GitHub.
