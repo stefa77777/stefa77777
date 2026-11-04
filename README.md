@@ -16,7 +16,7 @@
 
 ## 🦖 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas**.
+- 🎓 **Ingeniería de Sistemas**.
 - 💻 Desarrolladora **Full Stack** formada en **Generation Colombia** (Full-Stack Java, Cohorte 14).
 - ☕ Trabajo con **Java y Spring Boot** en el backend y **HTML, CSS y JavaScript** en el frontend.
 - 🗄️ Explorando bases de datos **SQL**.
@@ -49,12 +49,14 @@
 | **🐶 TechnoPet** | Proyecto grupal del Grupo 9, Generation Colombia, Cohorte 14. | [💻 Código](https://github.com/devdavco/TechnoPet) |
 | **🐱 Mundo Animal** | Blog para el cuidado y bienestar de las mascotas. | [💻 Código](https://github.com/elynzx/mundo-animal) |
 
-## 📊 Estadísticas
+## 📊 GitHub en números
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stefa77777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0d1a" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefa77777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0d1a" alt="Lenguajes más usados" />
+![Seguidores](https://img.shields.io/github/followers/stefa77777?style=for-the-badge&logo=github&color=7928CA&labelColor=181717)
+![Repositorios](https://img.shields.io/badge/Repositorios-13-A78BFA?style=for-the-badge&logo=git&logoColor=white&labelColor=181717)
+![Hackathons](https://img.shields.io/badge/Hackathons-2-F472B6?style=for-the-badge&logo=devpost&logoColor=white&labelColor=181717)
+![Pull Shark](https://img.shields.io/badge/Logro-Pull_Shark-0A66C2?style=for-the-badge&labelColor=181717)
 
 </div>
 
