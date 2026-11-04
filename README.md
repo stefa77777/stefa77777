@@ -32,13 +32,40 @@
 
 ## 📊 GitHub Stats
 
+## 📊 Mis estadísticas
 
-      <div class="stats">
-        <div><b data-count="13">0</b><small>Repositorios</small></div>
-        <div><b data-count="2">0</b><small>Hackathons</small></div>
-        <div><b data-count="7">0</b><small>Proyectos destacados</small></div>
-      </div>
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <h2>13</h2>
+      📦 Repositorios
+    </td>
+    <td align="center">
+      <h2>2</h2>
+      🏆 Hackathons
+    </td>
+    <td align="center">
+      <h2>7</h2>
+      🚀 Proyectos destacados
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 💻 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 🐍 Mi actividad en GitHub
 
