@@ -30,54 +30,20 @@
 
 </div>
 
-## 📊 GitHub Stats
 
-## 📊 Mis estadísticas
+## 🌐 Mi portafolio
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <h2>13</h2>
-      📦 Repositorios
-    </td>
-    <td align="center">
-      <h2>2</h2>
-      🏆 Hackathons
-    </td>
-    <td align="center">
-      <h2>7</h2>
-      🚀 Proyectos destacados
-    </td>
-  </tr>
-</table>
+<a href="https://stefa77777.github.io/PORTAFOLIO/">
+  <img src="https://img.shields.io/badge/🚀_Visita_mi_portafolio-7928CA?style=for-the-badge&logoColor=white" />
+</a>
+
+### 💻 Conoce mis proyectos, habilidades y experiencia en desarrollo Full Stack.
 
 </div>
 
-## 💻 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🐍 Mi actividad en GitHub
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-<div align="center">
 
 ✨ *Cada día es una nueva oportunidad para aprender algo diferente.*
 
