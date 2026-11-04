@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Gráfico de contribuciones" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Stefania+Redondo+👋;Full+Stack+Developer+💻;Estudiante+de+Ingeniería+de+Sistemas;Java+%C2%B7+Spring+Boot+%C2%B7+JavaScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Java+%7C+Spring+Boot+%7C+JavaScript" alt="Stefania Redondo - Full Stack Developer" />
 
 🌱 Aprendiendo, construyendo y creciendo en el mundo del desarrollo de software.
 
