@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Gráfico de contribuciones" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Java+%7C+Spring+Boot+%7C+JavaScript" alt="Stefania Redondo - Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Ciberseguridad+%26+Java" alt="Stefania Redondo - Full Stack & Cybersecurity" />
 
-🌱 Aprendiendo, construyendo y creciendo en el mundo del desarrollo de software.
+> **Declaración Profesional:** Me apasiona la ciberseguridad y el desarrollo de software; disfruto creando soluciones seguras e impactando de forma positiva en las organizaciones y en las personas a las que sirven.
 
 [![Portafolio](https://img.shields.io/badge/🚀_Portafolio-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stefa77777.github.io/PORTAFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefaniaredondo)
@@ -18,13 +18,13 @@
 
 - 🎓 **Ingeniería de Sistemas**.
 - 💻 Desarrolladora **Full Stack** formada en **Generation Colombia** (Full-Stack Java, Cohorte 14).
+- 🛡️ Actualmente formándome en **Ciberseguridad**, uniendo el desarrollo de software con las buenas prácticas de defensa y seguridad de la información.
 - ☕ Trabajo con **Java y Spring Boot** en el backend y **HTML, CSS y JavaScript** en el frontend.
 - 🗄️ Explorando bases de datos **SQL**.
 - 🏆 He participado en **2 hackathons** (ver abajo), donde aprendí a trabajar en equipo y bajo presión.
 - 🔧 Uso **Git y GitHub** para colaborar en proyectos en equipo.
-- 🚀 Siempre aprendiendo nuevas tecnologías.
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
