@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Gráfico de contribuciones" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;InfoSec+%26+Java+Dev" alt="Stefania Redondo - Full Stack & InfoSec" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;SOC+%26+Java+Dev" alt="Stefania Redondo - Full Stack & SOC" />
 
 > Me apasiona el SOC y el desarrollo de software; disfruto creando soluciones seguras e impactando de forma positiva en las organizaciones y en las personas a las que sirven.
 
