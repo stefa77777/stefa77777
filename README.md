@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;InfoSec+%26+Java+Dev" alt="Stefania Redondo - Full Stack & InfoSec" />
 
-> **Declaración Profesional:** Me apasiona la seguridad de la información y el desarrollo de software; disfruto creando soluciones seguras e impactando de forma positiva en las organizaciones y en las personas a las que sirven.
+> Me apasiona la Ciber y el desarrollo de software; disfruto creando soluciones seguras e impactando de forma positiva en las organizaciones y en las personas a las que sirven.
 
 [![Portafolio](https://img.shields.io/badge/🚀_Portafolio-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stefa77777.github.io/PORTAFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefaniaredondo)
