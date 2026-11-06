@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=%C2%A1Hola!+Soy+Stefania+Redondo;Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;InfoSec+%26+Java+Dev" alt="Stefania Redondo - Full Stack & InfoSec" />
 
-> Me apasiona la Ciber y el desarrollo de software; disfruto creando soluciones seguras e impactando de forma positiva en las organizaciones y en las personas a las que sirven.
+> Me apasiona el SOC y el desarrollo de software; disfruto creando soluciones seguras e impactando de forma positiva en las organizaciones y en las personas a las que sirven.
 
 [![Portafolio](https://img.shields.io/badge/🚀_Portafolio-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stefa77777.github.io/PORTAFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefaniaredondo)
@@ -18,7 +18,7 @@
 
 - 🎓 **Ingeniería de Sistemas**.
 - 💻 Desarrolladora **Full Stack** formada en **Generation Colombia** (Full-Stack Java, Cohorte 14).
-- 🛡️ Explorando el área de **InfoSec / Ciber**, integrando el desarrollo de software con buenas prácticas de seguridad de la información.
+- 🛡️ Orientada hacia el área de **SOC**, integrando el desarrollo de software con buenas prácticas de seguridad de la información y monitoreo de defensas.
 - ☕ Trabajo con **Java y Spring Boot** en el backend y **HTML, CSS y JavaScript** en el frontend.
 - 🗄️ Explorando bases de datos **SQL**.
 - 🏆 He participado en **2 hackathons** (ver abajo), donde aprendí a trabajar en equipo y bajo presión.
