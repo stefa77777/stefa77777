@@ -71,3 +71,4 @@
 ✨ *Cada día es una nueva oportunidad para aprender algo diferente.*
 
 </div>
+Desarrollado por Stefania Redondo
