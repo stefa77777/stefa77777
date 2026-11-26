@@ -46,7 +46,6 @@
 |:---------|:------------|:--------|
 |📋 Planificador de Tareas | Planificador de tareas con agente bot de IA para organizar rutinas y pendientes | [🌐 Demo](https://stefa77777.github.io/planificador-de-tares/) · [💻 Código](https://github.com/stefa77777/planificador-de-tares.git) |
 | **🐾 GPS PET** | Aplicación web para rastreo y localización de mascotas en tiempo real. | [🌐 Demo](https://stefa77777.github.io/GPS-PET/) · [💻 Código](https://github.com/stefa77777/GPS-PET) |
-| **🍽️ Restaurante** | Sitio web interactivo para menú y reservas de un restaurante. | [🌐 Demo](https://stefa77777.github.io/Restaurante/) · [💻 Código](https://github.com/stefa77777/Restaurante) |
 | **🛍️ Trendy Shop** | Plataforma de comercio electrónico hecha en equipo (Generation Ch14). | [🌐 Demo](https://argie-fullstack-java-generation-ch14.github.io/trendy-shop/) · [💻 Código](https://github.com/argie-fullstack-java-generation-ch14/trendy-shop) |
 | **🐶 TechnoPet** | Proyecto grupal del Grupo 9, Generation Colombia, Cohorte 14. | [💻 Código](https://github.com/devdavco/TechnoPet) |
 | **🐱 Mundo Animal** | Blog para el cuidado y bienestar de las mascotas. | [💻 Código](https://github.com/elynzx/mundo-animal) |
