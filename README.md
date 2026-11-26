@@ -16,8 +16,9 @@
 
 ## 🦖 Sobre mí
 
-- 🎓 **Ingeniería de Sistemas**.
+- 🎓 Estudiante de **Ingeniería de Sistemas**.
 - 💻 Desarrolladora **Full Stack** formada en **Generation Colombia** (Full-Stack Java, Cohorte 14).
+- 🤖 Desarrollo soluciones con **Inteligencia Artificial**, creando **agentes bot** para automatizar y facilitar tareas cotidianas.
 - 🛡️ Orientada hacia el área de **SOC**, integrando el desarrollo de software con buenas prácticas de seguridad de la información y monitoreo de defensas.
 - ☕ Trabajo con **Java y Spring Boot** en el backend y **HTML, CSS y JavaScript** en el frontend.
 - 🗄️ Explorando bases de datos **SQL**.
@@ -43,7 +44,7 @@
 
 | Proyecto | Descripción | Enlaces |
 |:---------|:------------|:--------|
-|📋 Planificador de Tareas | Planificador de tareas con agente bot de IA para organizar rutinas y pendientes | [🌐 Demo](https://stefa77777.github.io/planificador-de-tares/) .  [💻 Código] (https://github.com/stefa77777/planificador-de-tares.git)
+|📋 Planificador de Tareas | Planificador de tareas con agente bot de IA para organizar rutinas y pendientes | [🌐 Demo](https://stefa77777.github.io/planificador-de-tares/) · [💻 Código](https://github.com/stefa77777/planificador-de-tares.git) |
 | **🐾 GPS PET** | Aplicación web para rastreo y localización de mascotas en tiempo real. | [🌐 Demo](https://stefa77777.github.io/GPS-PET/) · [💻 Código](https://github.com/stefa77777/GPS-PET) |
 | **🍽️ Restaurante** | Sitio web interactivo para menú y reservas de un restaurante. | [🌐 Demo](https://stefa77777.github.io/Restaurante/) · [💻 Código](https://github.com/stefa77777/Restaurante) |
 | **🛍️ Trendy Shop** | Plataforma de comercio electrónico hecha en equipo (Generation Ch14). | [🌐 Demo](https://argie-fullstack-java-generation-ch14.github.io/trendy-shop/) · [💻 Código](https://github.com/argie-fullstack-java-generation-ch14/trendy-shop) |
